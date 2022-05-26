@@ -28,9 +28,7 @@ int sumofnodes(struct node *root)
         return sum;
     }
 }
-/*
- * Main Function
- */
+
 int main()
 {
    /* Creating first Tree. */
